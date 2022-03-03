@@ -8,7 +8,7 @@ Intro to AI Labs largely following Berkeley's Pacman Project
 * Contraint programming with Minizinc
 
 ## Resources:
-* Link to the Berkeley Pacman Project: https://github.com/kromer-creator/Senior-Seminar-Research.git
+* [Berkeley PacMan Project](http://ai.berkeley.edu/project_overview.html)
 
 ## Tools:
 * Python
